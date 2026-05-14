@@ -1,4 +1,5 @@
 # projet3-Requetez-une-base-de-donnees-avec-SQL
+# P03 — Requêtez une base de données avec SQL
 
 ## 🎯 Contexte
 Mission pour une entreprise du secteur de l'assurance habitation. L'objectif est d'analyser le marché des assurances en créant et en requêtant une base de données SQL.
@@ -17,4 +18,6 @@ Ce projet m'a permis de maîtriser la modélisation relationnelle et la rédacti
 - Présentation des résultats d'analyse
 
 ## 🔧 Outils utilisés
-SQL , EXCEL
+SQL , Excel
+
+
